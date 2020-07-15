@@ -62,7 +62,7 @@ _Always willing to learn new stuff._
 
 <p align="center">
 
- <img src="https://raw.githubuserontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 
@@ -115,11 +115,17 @@ _Always willing to learn new stuff._
 <a href="https://www.instagram.com/jayvirrathi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/jayvirrathi"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-<a href="https://www.instagram.com/jayvirrathi"><img src="https://raw.githubuserontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/instagram.svg" alt="html" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.instagram.com/jayvirrathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:4px">
+</a>
 
-<a href="https://stackoverflow.com/users/10936378/jayvir-rathi"><img src="https://raw.githubuserontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/stackoverflow.svg" alt="html" style="vertical-align:top; margin:4px"></a>
+<a href="https://stackoverflow.com/users/10936378/jayvir-rathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:4px">
+</a>
 
-<a href="https://www.snapchat.com/add/jayvirrathi"><img src="https://raw.githubuserontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/snapchat.svg" alt="html" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.snapchat.com/add/jayvirrathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:4px">
+</a>
 
 <!-- section - social media icons -->
 
