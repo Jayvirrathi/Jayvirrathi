@@ -1,5 +1,11 @@
 
 
+<!-- Header -->
+<img src="https://avatars0.githubusercontent.com/u/10550020?s=400&u=766403dab360020e2669fca8fbdd0ae68021fe38&v=4" alt="Jayvir Rathi" width="100"/>
+
+## Jayvir Rathi 👋
+
+
 [1.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
 [2.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
 [3.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
@@ -23,7 +29,12 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Jayvir — a **software engineer** at **Innovify** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship & philosophy . ✌💖
+
+Hi, I'm Jayvir — a **software engineer** at **Innovify** building some real stuff through code. My working principle is learning by doing. 
+I am a passionate and self-motivated developer with a keen interest in Full Stack Development & DevOps. 
+Always up for a discussion on  softwares, business, entrepreneurship & philosophy . ✌💖
+
+_Always willing to learn new stuff._
 
 <!-- section - intro -->
 
@@ -43,12 +54,17 @@ Hi, I'm Jayvir — a **software engineer** at **Innovify** building some real st
 <!-- section - skills -->
 
 ## I work on .. 💻
+-----
+### Technical Skills 💻
 
-Nodejs . React.js 
 
-Postgresql . MongoDB . Mysql
+>***Language*** - Python, JavaScript
 
-Python . JavaScript . Java
+>***Development*** - Node.js, React.js
+
+>***Database*** - MongoDB, PostgreSQL, MySQL 
+
+
 
 <!-- section - skills -->
 
@@ -82,7 +98,11 @@ Python . JavaScript . Java
 [![dev to jayvirrathi][6.1]][6]
 
 <!-- section - social media icons -->
+<!-- Footer -->
+-----
+![Name](https://img.shields.io/badge/Maintainer-JayvirRathi-blue.svg)
+![Developer](https://img.shields.io/badge/Role-Developer💻-orange.svg)
+[![Projects](https://img.shields.io/badge/Projects-Github(Repos)-lightgrey.svg)](https://github.com/Jayvirrathi)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Jayvirrathi.visitor-badge)
 
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=Jayvirrathi.visitor-badge">
- <p/>
+### Made with ❤️
