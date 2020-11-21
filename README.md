@@ -3,12 +3,12 @@
 
 ## Jayvir Rathi 👋
 
-[1.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-linkedin-48.png "linkedin icon with padding"
-[2.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-github-48.png "github icon with padding"
-[3.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-twitter-48.png "twitter icon with padding"
-[4.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-medium-new-48.png "medium icon with padding"
-[5.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-stack-overflow-48.png "stackoverflow icon with padding"
-[6.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-dev-48.png "dev icon with padding"
+[1.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-linkedin-48.png 'linkedin icon with padding'
+[2.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-github-48.png 'github icon with padding'
+[3.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-twitter-48.png 'twitter icon with padding'
+[4.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-medium-new-48.png 'medium icon with padding'
+[5.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-stack-overflow-48.png 'stackoverflow icon with padding'
+[6.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-dev-48.png 'dev icon with padding'
 
 <!-- links to my social media accounts -->
 
@@ -136,6 +136,16 @@ _Always willing to learn new stuff._
 [![Projects](<https://img.shields.io/badge/Projects-Github(Repos)-lightgrey.svg>)](https://github.com/Jayvirrathi)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Jayvirrathi.visitor-badge)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jayvirrathi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Jayvir Rathi"/>
+:zap: GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jayvirrathi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Jayvir Rathi's GitHub Stats"/>
+
+<details>
+  <summary>:zap: Recent GitHub Activities</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 ### Made with ❤️
