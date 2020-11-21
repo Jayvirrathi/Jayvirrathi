@@ -54,13 +54,19 @@ _Always willing to learn new stuff._
 
 > **_Language_** -
 
+<p>
+
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/js.svg" alt="js" width="40" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/python.svg" width="40" height="40" alt="python" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/typescript.svg" width="40" height="40" alt="typescript" style="vertical-align:top; margin:4px">
 
+</p>
+
 > **_Development_** -
+
+<p>
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/nodejs.svg" width="40" height="40" alt="nodejs" style="vertical-align:top; margin:4px">
 
@@ -76,7 +82,11 @@ _Always willing to learn new stuff._
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/django.svg" width="40" height="40" alt="flask" style="vertical-align:top; margin:4px">
 
+</p>
+
 > **_Database_** -
+
+<p>
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/database/mongodb.svg" width="40" height="40" alt="mongodb" style="vertical-align:top; margin:4px">
 
@@ -84,9 +94,11 @@ _Always willing to learn new stuff._
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/database/mysql.svg" width="40" height="40" alt="mysql" style="vertical-align:top; margin:4px">
 
+</p>
+
 ### - Languages and Tools...
 
-<p align="center">
+<p>
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/html.svg" width="40" height="40" alt="html" style="vertical-align:top; margin:4px">
 
