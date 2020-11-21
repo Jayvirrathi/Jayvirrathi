@@ -23,7 +23,7 @@
 
 # ❤ to Build - Software Engineer & Enthusiast!
 
-Hi, I'm Jayvir — a **software engineer** at **Innovify** building some real stuff through code. My working principle is learning by doing.
+Hi, I'm Jayvir — a **software engineer** building some real stuff through code. My working principle is learning by doing.
 I am a passionate and self-motivated developer with a keen interest in Full Stack Development & DevOps.
 Always up for a discussion on softwares, business, entrepreneurship & philosophy . ✌💖
 
@@ -70,25 +70,15 @@ _Always willing to learn new stuff._
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/nodejs.svg" alt="cloud" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
 </p>
-
-<!-- section - job details -->
-
-## On the job .. 💯
-
-> Software Engineer - [**Innovify**](https://www.innovify.com/) ⭐
-
-<!-- section - job details -->
 
 <!-- section - interests -->
 
@@ -119,14 +109,6 @@ _Always willing to learn new stuff._
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:4px">
 </a>
 
-<a href="https://stackoverflow.com/users/10936378/jayvir-rathi">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:4px">
-</a>
-
-<a href="https://www.snapchat.com/add/jayvirrathi">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:4px">
-</a>
-
 <!-- section - social media icons -->
 
 ## <!-- Footer -->
@@ -138,7 +120,9 @@ _Always willing to learn new stuff._
 
 :zap: GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jayvirrathi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Jayvir Rathi's GitHub Stats"/>
+[![Jayvir Rathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayvirrathi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Jayvirrathi)
+
+[![Jayvir Rathi's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayvirrathi&layout=compact)](https://github.com/Jayvirrathi)
 
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
