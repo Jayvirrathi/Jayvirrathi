@@ -3,22 +3,6 @@
 
 ## Jayvir Rathi 👋
 
-[1.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-linkedin-48.png 'linkedin icon with padding'
-[2.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-github-48.png 'github icon with padding'
-[3.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-twitter-48.png 'twitter icon with padding'
-[4.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-medium-new-48.png 'medium icon with padding'
-[5.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-stack-overflow-48.png 'stackoverflow icon with padding'
-[6.1]: https://github.com/Jayvirrathi/Jayvirrathi/blob/master/assets/icons/icons8-dev-48.png 'dev icon with padding'
-
-<!-- links to my social media accounts -->
-
-[1]: https://www.linkedin.com/in/jayvirrathi
-[2]: https://www.github.com/jayvirrathi
-[3]: https://www.twitter.com/jayvirrathi
-[4]: http://www.medium.com/@jayvirrathi
-[5]: https://stackoverflow.com/users/10936378/jayvir-rathi
-[6]: http://dev.to/jayvirrathi
-
 <!-- section - intro -->
 
 # ❤ to Build - Software Engineer & Enthusiast!
@@ -32,21 +16,6 @@ _Always willing to learn new stuff._
 <!-- section - intro -->
 
 <!-- section - social media icons -->
-
-[![linkedin jayvirrathi][1.1]][1]
-[![github jayvirrathi][2.1]][2]
-[![twitter jayvirrathi][3.1]][3]
-[![medium jayvirrathi][4.1]][4]
-[![stackoverflow jayvir-rathi][5.1]][5]
-[![dev to jayvirrathi][6.1]][6]
-
-<!-- section - social media icons -->
-
----
-
-<!-- section - skills -->
-
-## I work on .. 💻
 
 ---
 
@@ -142,24 +111,23 @@ _Always willing to learn new stuff._
 
 <!-- section - social media icons -->
 
-<!-- [![linkedin jayvirrathi][1.1]][1]
-[![github jayvirrathi][2.1]][2]
-[![twitter jayvirrathi][3.1]][3]
-[![medium jayvirrathi][4.1]][4]
-[![stackoverflow jayvir-rathi][5.1]][5]
-[![dev to jayvirrathi][6.1]][6] -->
-
-</br>
-</br>
-<a href="https://www.linkedin.com/in/jayvirrathi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/jayvirrathi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/jayvirrathi"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
-<a href="https://www.instagram.com/jayvirrathi">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:4px">
+<a href="https://www.linkedin.com/in/jayvirrathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/linkedin.svg" alt="linkedin" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 
-<!-- section - social media icons -->
+<a href="https://www.github.com/jayvirrathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/github.svg" alt="github" width="40" height="40" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://www.twitter.com/jayvirrathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/twitter.svg" alt="twitter" width="40" height="40" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="http://www.medium.com/@jayvirrathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/medium.svg" alt="medium" width="40" height="40" style="vertical-align:top; margin:4px">
+</a>
+
+</br>
 
 ## <!-- Footer -->
 
