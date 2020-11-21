@@ -52,31 +52,69 @@ _Always willing to learn new stuff._
 
 ### Technical Skills 💻
 
-> **_Language_** - Python, JavaScript
+> **_Language_** -
 
-> **_Development_** - Node.js, React.js
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/js.svg" alt="js" width="40" height="40" style="vertical-align:top; margin:4px">
 
-> **_Database_** - MongoDB, PostgreSQL, MySQL
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/python.svg" width="40" height="40" alt="python" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/typescript.svg" width="40" height="40" alt="typescript" style="vertical-align:top; margin:4px">
+
+> **_Development_** -
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/nodejs.svg" width="40" height="40" alt="nodejs" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/express.svg" width="40" height="40" alt="express" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/react.svg" width="40" height="40" alt="react" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/deno.svg" width="40" height="40" alt="deno" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/nestjs.svg" width="40" height="40" alt="nestjs" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/flask.svg" width="40" height="40" alt="flask" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/django.svg" width="40" height="40" alt="flask" style="vertical-align:top; margin:4px">
+
+> **_Database_** -
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/database/mongodb.svg" width="40" height="40" alt="mongodb" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/database/postgresql.svg" width="40" height="40" alt="postgresql" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/database/mysql.svg" width="40" height="40" alt="mysql" style="vertical-align:top; margin:4px">
 
 ### - Languages and Tools...
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/html.svg" width="40" height="40" alt="html" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/css.svg" width="40" height="40" alt="css" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/chrome.svg" width="40" height="40" alt="chrome" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/git.svg" width="40" height="40" alt="git" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/nodejs.svg" alt="cloud" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/github.svg" width="40" height="40" alt="github" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/aws.svg" width="40" height="40"  alt="aws" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/babel.svg" width="40" height="40"  alt="babel" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/docker.svg" width="40" height="40" alt="docker" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/github-actions.svg" width="40" height="40" alt="github-actions" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/kubernetes.svg" width="40" height="40" alt="kubernetes" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/mocha.svg" width="40" height="40" alt="mocha" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/nginx.svg" width="40" height="40" alt="nginx" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/npm.svg" width="40" height="40" alt="npm" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/yarn.svg" width="40" height="40" alt="yarn" style="vertical-align:top; margin:4px">
 
 </p>
 
