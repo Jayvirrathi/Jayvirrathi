@@ -112,7 +112,7 @@ _Always willing to learn new stuff._
 📰 Blogging Sites _TECH BLOGS_
 
 <a href="https://jayvirrathi.hashnode.dev/">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/hashnode.svg" alt="hashnode" width="40" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/hashnode.png" alt="hashnode" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 
 <a href="http://www.medium.com/@jayvirrathi">
@@ -120,7 +120,7 @@ _Always willing to learn new stuff._
 </a>
 
 <a href="https://dev.to/jayvirrathi/">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/devto.svg" alt="devto" width="40" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/devto.png" alt="devto" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 </br>
 
@@ -152,7 +152,10 @@ _Always willing to learn new stuff._
 You can find my blogs at my [Website](https://jayvirrathi.hashnode.dev/).
 
 <!-- BLOG-POST-LIST:START -->
+<<<<<<< HEAD
 - [Docker+Deno: Containerize  Deno](https://jayvirrathi.hashnode.dev/dockerdeno)
+=======
+>>>>>>> 329ea94 (blogs sites added 🤞)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
