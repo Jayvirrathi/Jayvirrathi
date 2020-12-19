@@ -109,22 +109,29 @@ _Always willing to learn new stuff._
 
 📰 Reading _TECH BLOGS_
 
+📰 Blogging Sites _TECH BLOGS_
+
+<a href="https://jayvirrathi.hashnode.dev/">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/hashnode.svg" alt="hashnode" width="40" height="40" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="http://www.medium.com/@jayvirrathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/medium.svg" alt="medium" width="40" height="40" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://dev.to/jayvirrathi/">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/devto.svg" alt="devto" width="40" height="40" style="vertical-align:top; margin:4px">
+</a>
+</br>
+
 <!-- section - social media icons -->
 
 <a href="https://www.linkedin.com/in/jayvirrathi">
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/linkedin.svg" alt="linkedin" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 
-<a href="https://www.github.com/jayvirrathi">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/github.svg" alt="github" width="40" height="40" style="vertical-align:top; margin:4px">
-</a>
-
 <a href="https://www.twitter.com/jayvirrathi">
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/twitter.svg" alt="twitter" width="40" height="40" style="vertical-align:top; margin:4px">
-</a>
-
-<a href="http://www.medium.com/@jayvirrathi">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/medium.svg" alt="medium" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 
 </br>
@@ -141,6 +148,11 @@ _Always willing to learn new stuff._
 [![Jayvir Rathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayvirrathi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Jayvirrathi)
 
 [![Jayvir Rathi's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayvirrathi&layout=compact)](https://github.com/Jayvirrathi)
+
+You can find my blogs at my [Website](https://jayvirrathi.hashnode.dev/).
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
