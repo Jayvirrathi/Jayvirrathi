@@ -152,10 +152,7 @@ _Always willing to learn new stuff._
 You can find my blogs at my [Website](https://jayvirrathi.hashnode.dev/).
 
 <!-- BLOG-POST-LIST:START -->
-<<<<<<< HEAD
 - [Docker+Deno: Containerize  Deno](https://jayvirrathi.hashnode.dev/dockerdeno)
-=======
->>>>>>> 329ea94 (blogs sites added 🤞)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
