@@ -160,11 +160,11 @@ You can find my blogs at my [Website](https://jayvirrathi.hashnode.dev/).
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Jayvirrathi/react-portfolio/pull/4) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
-2. ❌ Closed PR [#2](https://github.com/Jayvirrathi/react-portfolio/pull/2) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
-3. ❌ Closed PR [#3](https://github.com/Jayvirrathi/react-portfolio/pull/3) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
-4. ❌ Closed PR [#1](https://github.com/Jayvirrathi/react-portfolio/pull/1) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
-5. ❌ Closed PR [#3](https://github.com/Jayvirrathi/me/pull/3) in [Jayvirrathi/me](https://github.com/Jayvirrathi/me)
+1. 🎉 Merged PR [#1](https://github.com/Jayvirrathi/deno/pull/1) in [Jayvirrathi/deno](https://github.com/Jayvirrathi/deno)
+2. 💪 Opened PR [#1](https://github.com/Jayvirrathi/deno/pull/1) in [Jayvirrathi/deno](https://github.com/Jayvirrathi/deno)
+3. ❌ Closed PR [#4](https://github.com/Jayvirrathi/react-portfolio/pull/4) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
+4. ❌ Closed PR [#2](https://github.com/Jayvirrathi/react-portfolio/pull/2) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
+5. ❌ Closed PR [#3](https://github.com/Jayvirrathi/react-portfolio/pull/3) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
 <!--END_SECTION:activity-->
 
 </details>
