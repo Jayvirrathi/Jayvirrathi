@@ -144,14 +144,6 @@ _Always willing to learn new stuff._
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/linkedin.svg" alt="linkedin" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 
-<a href="https://www.linkedin.com/in/jayvirrathi">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/linkedin.svg" alt="linkedin" width="40" height="40" style="vertical-align:top; margin:4px">
-</a>
-
-<a href="https://www.twitter.com/jayvirrathi">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/twitter.svg" alt="twitter" width="40" height="40" style="vertical-align:top; margin:4px">
-</a>
-
 </br>
 
 ## <!-- Footer -->
