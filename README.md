@@ -21,7 +21,7 @@ _Always willing to learn new stuff._
 
 ### Technical Skills 💻
 
-> **_Language_** -
+> **_Language_**
 
 <p>
 
@@ -33,7 +33,7 @@ _Always willing to learn new stuff._
 
 </p>
 
-> **_Development_** -
+> **_Development_**
 
 <p>
 
@@ -41,7 +41,13 @@ _Always willing to learn new stuff._
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/express.svg" width="40" height="40" alt="express" style="vertical-align:top; margin:4px">
 
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/fastify.svg" width="40" height="40" alt="fastify" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/restify.svg" width="40" height="40" alt="restify" style="vertical-align:top; margin:4px">
+
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/react.svg" width="40" height="40" alt="react" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/redux.svg" width="40" height="40" alt="redux" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/deno.svg" width="40" height="40" alt="deno" style="vertical-align:top; margin:4px">
 
@@ -53,7 +59,7 @@ _Always willing to learn new stuff._
 
 </p>
 
-> **_Database_** -
+> **_Database_**
 
 <p>
 
@@ -65,7 +71,19 @@ _Always willing to learn new stuff._
 
 </p>
 
-### - Languages and Tools...
+> **_ORM_**
+
+<p>
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/orm/mongoose.svg" width="40" height="40" alt="mongoose" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/orm/sequelize.svg" width="40" height="40" alt="sequelize" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/orm/typeorm.svg" width="40" height="40" alt="typeorm" style="vertical-align:top; margin:4px">
+
+</p>
+
+### Languages and Tools
 
 <p>
 
@@ -101,18 +119,12 @@ _Always willing to learn new stuff._
 
 <!-- section - interests -->
 
-## My Absolute Favorites .. 💖
+## Connect
 
-🦄 I love _CODING_
-
-👨‍💻 I _BUILD_ resilient apps & services
-
-📰 Reading _TECH BLOGS_
-
-📰 Blogging Sites _TECH BLOGS_
+📰 Connect with me on below _TECH Blogging Sites_
 
 <a href="https://jayvirrathi.hashnode.dev/">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/hashnode.png" alt="hashnode" width="40" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/hashnode.svg" alt="hashnode" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 
 <a href="http://www.medium.com/@jayvirrathi">
@@ -120,11 +132,17 @@ _Always willing to learn new stuff._
 </a>
 
 <a href="https://dev.to/jayvirrathi/">
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/devto.png" alt="devto" width="40" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/devto.svg" alt="devto" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 </br>
 
+## Social Media
+
 <!-- section - social media icons -->
+
+<a href="https://www.linkedin.com/in/jayvirrathi">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/linkedin.svg" alt="linkedin" width="40" height="40" style="vertical-align:top; margin:4px">
+</a>
 
 <a href="https://www.linkedin.com/in/jayvirrathi">
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/social/linkedin.svg" alt="linkedin" width="40" height="40" style="vertical-align:top; margin:4px">
@@ -152,10 +170,11 @@ _Always willing to learn new stuff._
 You can find my blogs at my [Website](https://jayvirrathi.hashnode.dev/).
 
 <!-- BLOG-POST-LIST:START -->
+
 - [AlephJS - The React Framework in Deno](https://jayvirrathi.hashnode.dev/alephjs)
 - [Deno Version Manager (DVM)](https://jayvirrathi.hashnode.dev/deno-version-manager)
 - [Deno Standalone Binaries](https://jayvirrathi.hashnode.dev/deno-standalone-binaries)
-- [Docker+Deno: Containerize  Deno](https://jayvirrathi.hashnode.dev/dockerdeno)
+- [Docker+Deno: Containerize Deno](https://jayvirrathi.hashnode.dev/dockerdeno)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
