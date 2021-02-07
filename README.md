@@ -162,11 +162,10 @@ _Always willing to learn new stuff._
 You can find my blogs at my [Website](https://jayvirrathi.hashnode.dev/).
 
 <!-- BLOG-POST-LIST:START -->
-
 - [AlephJS - The React Framework in Deno](https://jayvirrathi.hashnode.dev/alephjs)
 - [Deno Version Manager (DVM)](https://jayvirrathi.hashnode.dev/deno-version-manager)
 - [Deno Standalone Binaries](https://jayvirrathi.hashnode.dev/deno-standalone-binaries)
-- [Docker+Deno: Containerize Deno](https://jayvirrathi.hashnode.dev/dockerdeno)
+- [Docker+Deno: Containerize  Deno](https://jayvirrathi.hashnode.dev/dockerdeno)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
