@@ -45,6 +45,12 @@ _Always willing to learn new stuff._
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/restify.svg" width="40" height="40" alt="restify" style="vertical-align:top; margin:4px">
 
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/rest.svg" width="40" height="40" alt="restify" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/swagger.svg" width="40" height="40" alt="restify" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/graphql.svg" width="40" height="40" alt="restify" style="vertical-align:top; margin:4px">
+
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/react.svg" width="40" height="40" alt="react" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/redux.svg" width="40" height="40" alt="redux" style="vertical-align:top; margin:4px">
