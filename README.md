@@ -43,7 +43,7 @@ _Always willing to learn new stuff._
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/fastify.svg" width="40" height="40" alt="fastify" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/restify.svg" width="40" height="40" alt="restify" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/frameworks/restify.svg" width="40" height="40" alt="restify" style="vertical-align:top; margin:4px"> -->
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/rest.svg" width="40" height="40" alt="rest" style="vertical-align:top; margin:4px">
 
@@ -77,6 +77,8 @@ _Always willing to learn new stuff._
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/database/mysql.svg" width="40" height="40" alt="mysql" style="vertical-align:top; margin:4px">
 
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/database/redis.svg" width="40" height="40" alt="redis" style="vertical-align:top; margin:4px">
+
 </p>
 
 > **_ORM/ODM_**
@@ -99,19 +101,35 @@ _Always willing to learn new stuff._
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/languages/css.svg" width="40" height="40" alt="css" style="vertical-align:top; margin:4px">
 
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/babel.svg" width="40" height="40"  alt="babel" style="vertical-align:top; margin:4px">
+
+
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/chrome.svg" width="40" height="40" alt="chrome" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/git.svg" width="40" height="40" alt="git" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/misc/github.svg" width="40" height="40" alt="github" style="vertical-align:top; margin:4px">
 
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/digitalocean.svg" width="40" height="40"  alt="digitalocean" style="vertical-align:top; margin:4px">
+
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/aws.svg" width="40" height="40"  alt="aws" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/babel.svg" width="40" height="40"  alt="babel" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/heroku.svg" width="40" height="40"  alt="heroku" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/firebase.svg" width="40" height="40"  alt="firebase" style="vertical-align:top; margin:4px">
+
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/windows.svg" width="40" height="40" alt="windows" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/ubuntu.svg" width="40" height="40" alt="ubuntu" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/github-actions.svg" width="40" height="40" alt="github-actions" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/jenkins.svg" width="40" height="40" alt="jenkins" style="vertical-align:top; margin:4px">
+
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/docker.svg" width="40" height="40" alt="docker" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/github-actions.svg" width="40" height="40" alt="github-actions" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/Jayvirrathi/Jayvirrathi/master/svg/dev/services/kubernetes.svg" width="40" height="40" alt="kubernetes" style="vertical-align:top; margin:4px">
 
@@ -175,18 +193,5 @@ You can find my blogs at my [Website](https://jayvirrathi.hashnode.dev/).
 - [Deno Standalone Binaries](https://jayvirrathi.hashnode.dev/deno-standalone-binaries)
 - [Docker+Deno: Containerize  Deno](https://jayvirrathi.hashnode.dev/dockerdeno)
 <!-- BLOG-POST-LIST:END -->
-
-<details>
-  <summary>:zap: Recent GitHub Activities</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Jayvirrathi/deno/pull/1) in [Jayvirrathi/deno](https://github.com/Jayvirrathi/deno)
-2. 💪 Opened PR [#1](https://github.com/Jayvirrathi/deno/pull/1) in [Jayvirrathi/deno](https://github.com/Jayvirrathi/deno)
-3. ❌ Closed PR [#4](https://github.com/Jayvirrathi/react-portfolio/pull/4) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
-4. ❌ Closed PR [#2](https://github.com/Jayvirrathi/react-portfolio/pull/2) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
-5. ❌ Closed PR [#3](https://github.com/Jayvirrathi/react-portfolio/pull/3) in [Jayvirrathi/react-portfolio](https://github.com/Jayvirrathi/react-portfolio)
-<!--END_SECTION:activity-->
-
-</details>
 
 ### Made with ❤️
